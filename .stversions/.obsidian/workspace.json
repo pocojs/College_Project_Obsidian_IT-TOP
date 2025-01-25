@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "9957d413e26bd5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a2aa530a39157b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53593903572820f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20652b7eacd925e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8db9c422e64caae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e660f2c7641b578d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0f97f172dbcc1543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b02bd27d2a2f77e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff49085b6583365",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f965b841f14f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011d947959faaebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "c5fbd037e2186601",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "05257ebac4f621f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b760b9c79d9f361e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c53593903572820f",
+  "lastOpenFiles": [
+    "Stack технологий для разработки веб-сайта.md",
+    "Тема работы - Разработка веб-сайта журнала колледжа IT TOP.md",
+    "2024-12-25.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "~syncthing~Stack технологий для разработки веб-сайта.md.tmp",
+    "Без названия",
+    "Проблема.md",
+    "2024-11-05.md",
+    "Тема",
+    "Добро пожаловать.md"
+  ]
+}

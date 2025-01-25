@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "9957d413e26bd5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "084b70862a51f3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26800b42f1e60aac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20652b7eacd925e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8db9c422e64caae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e660f2c7641b578d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0f97f172dbcc1543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b02bd27d2a2f77e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff49085b6583365",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f965b841f14f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011d947959faaebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Backend"
+            }
+          },
+          {
+            "id": "c5fbd037e2186601",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Backend"
+            }
+          },
+          {
+            "id": "05257ebac4f621f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b760b9c79d9f361e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Backend"
+            }
+          },
+          {
+            "id": "b34eaa627782ecbe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "66e2093ef450dac3",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "cdb0e95f5e3a922a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "12630da8e64c4950",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "12630da8e64c4950",
+  "lastOpenFiles": [
+    "Актуальность.md",
+    "Исследовательская проблема.md",
+    "Исследовательский вопрос.md",
+    "Методы исследования.md",
+    "Методы реализации.md",
+    "Дизайн сайта.md",
+    "Figma.md",
+    "Разработка веб-сайта журнала колледжа IT TOP.md",
+    "Тема работы.md",
+    "images/backend-inside.png",
+    "images/frontend-techs.jpg",
+    "images/docker.jpg",
+    "images/frontend_backend.webp",
+    "images/ittopcollege.avif",
+    "images/next-js.jpg",
+    "images/postgresql.png",
+    "images/prisma.jpg",
+    "images/react.jpg",
+    "images/tailwind-css.jpg",
+    "TypeScript.md",
+    "Frontend.md",
+    "Next.js.md",
+    "Tailwind.md",
+    "React.md",
+    "Индивидуальный проект.md",
+    "Гит-репозиторий проекта.md",
+    "Backend.md",
+    "Предметы исследования.md",
+    "UI & UX Дизайн.md",
+    "UI Дизайн.md",
+    "UX Дизайн.md",
+    "Docker.md",
+    "PostgreSQL.md",
+    "Prisma.md",
+    "Гит-репозиторий Obsidian проекта.md",
+    "Цель.md",
+    "images",
+    "UI",
+    "Excalidraw",
+    "шаблоны",
+    "directory",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "~syncthing~Stack технологий для разработки веб-сайта.md.tmp",
+    "Тема"
+  ]
+}
